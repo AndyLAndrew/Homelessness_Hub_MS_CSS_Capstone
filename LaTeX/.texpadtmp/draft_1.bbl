@@ -1,0 +1,365 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/global//global/global}
+    \entry{Cheng2021}{webpage}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a41d6ffc590e79eda32a75e2eb025764}{%
+           family={Cheng},
+           familyi={C\bibinitperiod},
+           given={Fanilla},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a41d6ffc590e79eda32a75e2eb025764}
+      \strng{fullhash}{a41d6ffc590e79eda32a75e2eb025764}
+      \strng{bibnamehash}{a41d6ffc590e79eda32a75e2eb025764}
+      \strng{authorbibnamehash}{a41d6ffc590e79eda32a75e2eb025764}
+      \strng{authornamehash}{a41d6ffc590e79eda32a75e2eb025764}
+      \strng{authorfullhash}{a41d6ffc590e79eda32a75e2eb025764}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{6}
+      \field{title}{Why It's So Hard to Gauge the Extent of California's Eviction Crisis}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://www.newamerica.org/future-land-housing/blog/why-its-so-hard-to-gauge-the-extent-of-californias-eviction-crisis/
+      \endverb
+      \verb{url}
+      \verb https://www.newamerica.org/future-land-housing/blog/why-its-so-hard-to-gauge-the-extent-of-californias-eviction-crisis/
+      \endverb
+    \endentry
+    \entry{DesmondKimbra2015EFHH}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=d70370f7aca399e506cbccab3784c4b0}{%
+           family={Desmond},
+           familyi={D\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e6e90ffd50c570b51d2df3546d4deafe}{%
+           family={Kimbro},
+           familyi={K\bibinitperiod},
+           given={Rachel\bibnamedelima Tolbert},
+           giveni={R\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \list{location}{1}{%
+        {Oxford}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{18e61cc3d6a703267d1a45c002401ab5}
+      \strng{fullhash}{18e61cc3d6a703267d1a45c002401ab5}
+      \strng{bibnamehash}{18e61cc3d6a703267d1a45c002401ab5}
+      \strng{authorbibnamehash}{18e61cc3d6a703267d1a45c002401ab5}
+      \strng{authornamehash}{18e61cc3d6a703267d1a45c002401ab5}
+      \strng{authorfullhash}{18e61cc3d6a703267d1a45c002401ab5}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Millions of families across the United States are evicted each year. Yet, we know next to nothing about the impact eviction has on their lives. Focusing on low-income urban mothers, a population at high risk of eviction, this study is among the first to examine rigorously the consequences of involuntary displacement from housing. Applying two methods of propensity score analyses to data from a national survey, we find that eviction has negative effects on mothers in multiple domains. Compared to matched mothers who were not evicted, mothers who were evicted in the previous year experienced more material hardship, were more likely to suffer from depression, reported worse health for themselves and their children, and reported more parenting stress. Some evidence suggests that at least two years after their eviction, mothers still experienced significantly higher rates of material hardship and depression than peers.}
+      \field{issn}{0037-7732}
+      \field{journaltitle}{Social forces}
+      \field{number}{1}
+      \field{title}{Eviction's Fallout: Housing, Hardship, and Health}
+      \field{volume}{94}
+      \field{year}{2015}
+      \field{pages}{295\bibrangedash 324}
+      \range{pages}{30}
+      \keyw{Analysis ; Childrearing Practices ; Children ; Data analysis ; Depression (Mood disorder) ; Depression,Mental ; Displaced homemakers ; Eviction ; Evictions ; Health ; Health and hygiene ; Health aspects ; Housing ; HOUSING AND POVERTY ; Influence ; Low Income Groups ; Low-income mothers ; Maternal and infant welfare ; Mental depression ; Mental Health ; Methodology (Data Analysis) ; Mothers ; Parents ; Peers ; Propensity scores ; Psychological aspects ; Risk ; Social aspects ; Stress ; United States ; United States of America ; Urban Population}
+    \endentry
+    \entry{KangSeungbeom2019WLHB}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=39ba55ae7a5316aac061ee8e4a75bf6a}{%
+           family={Kang},
+           familyi={K\bibinitperiod},
+           given={Seungbeom},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \list{location}{1}{%
+        {Abingdon}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{39ba55ae7a5316aac061ee8e4a75bf6a}
+      \strng{fullhash}{39ba55ae7a5316aac061ee8e4a75bf6a}
+      \strng{bibnamehash}{39ba55ae7a5316aac061ee8e4a75bf6a}
+      \strng{authorbibnamehash}{39ba55ae7a5316aac061ee8e4a75bf6a}
+      \strng{authornamehash}{39ba55ae7a5316aac061ee8e4a75bf6a}
+      \strng{authorfullhash}{39ba55ae7a5316aac061ee8e4a75bf6a}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Because of a severe shortage of affordable housing in the United States, an increasing number of low-income households suffer from housing instability. However, little evidence exists as to why they experienced housing instability, although they were stably housed at other times. By applying hybrid models to the Panel Study of Income Dynamics data, this study estimates the effects of potential household-level predictors on the likelihood of experiencing housing instability. The results show that changes in family employment structure, job insecurity, automobile ownership, and the number of adult family members within a household correlate with housing instability after controlling for changes in household income and housing costs. Moreover, I find that households with children are particularly vulnerable to housing instability. These results contribute to identifying valid household-level predictors of housing instability and developing preventive policy interventions that help unsubsidized low-income households achieve housing stability.}
+      \field{issn}{1051-1482}
+      \field{journaltitle}{Housing policy debate}
+      \field{number}{4}
+      \field{title}{Why Low-Income Households Become Unstably Housed: Evidence From the Panel Study of Income Dynamics}
+      \field{volume}{29}
+      \field{year}{2019}
+      \field{pages}{559\bibrangedash 587}
+      \range{pages}{29}
+      \keyw{Affordable housing ; Control stability ; Correlation analysis ; Dynamic tests ; Economic models ; Employment ; Family structure ; Household Saving,Personal Finance (D14) ; Households ; Housing ; Housing costs ; Housing instability ; Housing Supply and Markets (R31) ; hybrid logistic regression models ; Income ; Job insecurity ; Low income groups ; low-income households ; Motor cars ; Northern America ; Ownership ; Panel data ; Panel Study of Income Dynamics ; Production Analysis and Firm Location: Government Policy (R38) ; Relatives ; Security ; Stability ; U.S ; Urban,Rural,Regional,Real Estate,and Transportation Economics: Housing Demand (R21)}
+    \endentry
+    \entry{Kuntz2019}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=68dc3d159f8b8789014c1f0d2086f118}{%
+           family={Kris\bibnamedelima Kuntz},
+           familyi={K\bibinitperiod\bibinitdelim K\bibinitperiod},
+           given={Andrew\bibnamedelima Vu},
+           giveni={A\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0,
+           suffix={Nicole\bibnamedelima Blumenfeld},
+           suffixi={N\bibinitperiod\bibinitdelim B\bibinitperiod},
+           suffixun=0}}%
+      }
+      \list{organization}{1}{%
+        {2-1-1 San Diego/ Community Information Exchange, LeSar Development Consultants}%
+      }
+      \strng{namehash}{68dc3d159f8b8789014c1f0d2086f118}
+      \strng{fullhash}{68dc3d159f8b8789014c1f0d2086f118}
+      \strng{bibnamehash}{68dc3d159f8b8789014c1f0d2086f118}
+      \strng{authorbibnamehash}{68dc3d159f8b8789014c1f0d2086f118}
+      \strng{authornamehash}{68dc3d159f8b8789014c1f0d2086f118}
+      \strng{authorfullhash}{68dc3d159f8b8789014c1f0d2086f118}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{9}
+      \field{title}{Housing Instability in San Diego County}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb http://ciesandiego.org/wp-content/uploads/2019/09/Housing-Instability-in-San-Diego-Policy-Brief-090819.pdf
+      \endverb
+      \verb{url}
+      \verb http://ciesandiego.org/wp-content/uploads/2019/09/Housing-Instability-in-San-Diego-Policy-Brief-090819.pdf
+      \endverb
+    \endentry
+    \entry{Lake2022}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ac09ac29e8bf19f208bc1dfe4f2ec9d5}{%
+           family={Lake},
+           familyi={L\bibinitperiod},
+           given={Jaboa},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ac09ac29e8bf19f208bc1dfe4f2ec9d5}
+      \strng{fullhash}{ac09ac29e8bf19f208bc1dfe4f2ec9d5}
+      \strng{bibnamehash}{ac09ac29e8bf19f208bc1dfe4f2ec9d5}
+      \strng{authorbibnamehash}{ac09ac29e8bf19f208bc1dfe4f2ec9d5}
+      \strng{authornamehash}{ac09ac29e8bf19f208bc1dfe4f2ec9d5}
+      \strng{authorfullhash}{ac09ac29e8bf19f208bc1dfe4f2ec9d5}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Pandemic Has Exacerbated Housing Instability for Renters of Color}
+      \verb{urlraw}
+      \verb https://www.americanprogress.org/article/pandemic-exacerbated-housing-instability-renters-color/
+      \endverb
+      \verb{url}
+      \verb https://www.americanprogress.org/article/pandemic-exacerbated-housing-instability-renters-color/
+      \endverb
+      \warn{\item Entry 'Lake2022' (/Users/Andrew/Documents/School/2022-2023 Graduate UCSD Projects/MS_CSS_Capstone_Complete/LaTeX/sources.bib): Invalid format 'Oct 30, 2020' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{Medina2020102804}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=1dd329fd427101484671c9cf44c3f0e9}{%
+           family={Medina},
+           familyi={M\bibinitperiod},
+           given={Richard\bibnamedelima M.},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bbb8fe8431bd9582e148f4eca52f2c8a}{%
+           family={Byrne},
+           familyi={B\bibinitperiod},
+           given={Kara},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d0428c3f35b59834eb1e68ebec15eb2f}{%
+           family={Brewer},
+           familyi={B\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3ac91edcb2af3be6a0a8b228b6d8de84}{%
+           family={Nicolosi},
+           familyi={N\bibinitperiod},
+           given={Emily\bibnamedelima A.},
+           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4b49787745238bd5031019d78c24a4d3}
+      \strng{fullhash}{1115fc6bdebafba23f4c1707e39d93aa}
+      \strng{bibnamehash}{1115fc6bdebafba23f4c1707e39d93aa}
+      \strng{authorbibnamehash}{1115fc6bdebafba23f4c1707e39d93aa}
+      \strng{authornamehash}{4b49787745238bd5031019d78c24a4d3}
+      \strng{authorfullhash}{1115fc6bdebafba23f4c1707e39d93aa}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Housing insecurity affects millions of Americans. Many cases in which individuals or families lack secure housing are the result of involuntary residential displacement, which often comes in the form of eviction and eviction threat from rental residences. This study takes a spatial analysis approach to understand patterns of evictions filed in Salt Lake County, Utah at the block group level. Modeling the geography of housing security attributes in urban areas is key to identifying inequality issues in potentially segregated regions. Two regression models are constructed that provide insight into inequalities based on race/ethnicity and socioeconomic vulnerability. The models show that there are clear inequalities in Salt Lake County, whereby those living in block groups of minority populations are affected by eviction at a substantially higher rate than those living in majority White population block groups. There is also a higher likelihood of threat of eviction if residents are already economically stressed. The implications of these findings are not limited to individual or family suffering, but also have negative community and larger social effects. Potential pathways to alleviating these issues are discussed in the conclusions section.}
+      \field{issn}{0264-2751}
+      \field{journaltitle}{Cities}
+      \field{title}{Housing inequalities: Eviction patterns in Salt Lake County, Utah}
+      \field{volume}{104}
+      \field{year}{2020}
+      \field{pages}{102804}
+      \range{pages}{1}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.cities.2020.102804
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0264275119305840
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0264275119305840
+      \endverb
+    \endentry
+    \entry{NelsonKyle2021SCaS}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=adb46b23c649de73faee06f882b6f001}{%
+           family={Nelson},
+           familyi={N\bibinitperiod},
+           given={Kyle},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8760639cb84ff6e25046275fdaf86a3d}{%
+           family={Gromis},
+           familyi={G\bibinitperiod},
+           given={Ashley},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0b38a9d3c1cfccb2b8ada0b1ea714dcc}{%
+           family={Kuai},
+           familyi={K\bibinitperiod},
+           given={Yiwen},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=113b2c44d3c07bb4a1fc98ffe306953b}{%
+           family={Lens},
+           familyi={L\bibinitperiod},
+           given={Michael\bibnamedelima C.},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \list{location}{1}{%
+        {Abingdon}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{13fd6423a52858228392bf11e761074a}
+      \strng{fullhash}{b5a4af4d57f39a8ebb8d3b328c9d217c}
+      \strng{bibnamehash}{b5a4af4d57f39a8ebb8d3b328c9d217c}
+      \strng{authorbibnamehash}{b5a4af4d57f39a8ebb8d3b328c9d217c}
+      \strng{authornamehash}{13fd6423a52858228392bf11e761074a}
+      \strng{authorfullhash}{b5a4af4d57f39a8ebb8d3b328c9d217c}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The lack of sufficient affordable housing in Los Angeles, California burdens many renter households with the threat of an eviction. Research has identified individual- and neighborhood-level sociodemographic correlates of eviction, but the uneven distribution of sociodemographic characteristics and housing conditions across neighborhoods likely produces broader patterns of spatial clustering in eviction prevalence across local areas. We use spatial autoregressive models to explain the spatial concentration and spillover effects for two types of formal eviction filings-court-based and no-fault Ellis Act petitions-within and across census tracts in Los Angeles. Court-based filings show greater and more persistent spatial concentration, particularly in neighborhoods with higher percentages of Black residents. We find evidence of spatial correlation for both types of eviction, however, suggesting that identifying the spatial distribution of eviction prevalence across local areas is important to understanding how location shapes eviction risk in metropolitan areas.}
+      \field{issn}{1051-1482}
+      \field{journaltitle}{Housing policy debate}
+      \field{number}{3-5}
+      \field{title}{Spatial Concentration and Spillover: Eviction Dynamics in Neighborhoods of Los Angeles, California, 2005-2015}
+      \field{volume}{31}
+      \field{year}{2021}
+      \field{pages}{670\bibrangedash 695}
+      \range{pages}{26}
+      \keyw{Affordable housing ; Autoregressive models ; Census ; Censuses ; Clustering ; concentrated disadvantage ; Concentration ; Courts ; Economics of Minorities,Races,Indigenous Peoples,and Immigrants,Non-labor Discrimination (J15) ; eviction ; Evictions ; gentrification ; Households ; Housing ; housing markets ; Local areas ; Metropolitan areas ; Neighborhoods ; Northern America ; Production Analysis and Firm Location: Government Policy (R38) ; Residents ; Sociodemographics ; Spatial ; Spatial analysis ; Spatial distribution ; State and Local Government: Other Expenditure Categories (H76) ; U.S ; Urban,Rural,Regional,Real Estate,and Transportation Economics: Regional Migration,Regional Labor Markets,Population,Neighborhood Characteristics (R23)}
+    \endentry
+    \entry{Vesoulis2021}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=84cac7be2cdacb66d2be696780393c90}{%
+           family={Vesoulis},
+           familyi={V\bibinitperiod},
+           given={Abby},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{84cac7be2cdacb66d2be696780393c90}
+      \strng{fullhash}{84cac7be2cdacb66d2be696780393c90}
+      \strng{bibnamehash}{84cac7be2cdacb66d2be696780393c90}
+      \strng{authorbibnamehash}{84cac7be2cdacb66d2be696780393c90}
+      \strng{authornamehash}{84cac7be2cdacb66d2be696780393c90}
+      \strng{authorfullhash}{84cac7be2cdacb66d2be696780393c90}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{2}
+      \field{title}{Millions of Tenants Behind on Rent, Small Landlords Struggling, Eviction Moratoriums Expiring Soon: Inside the Next Housing Crisis}
+      \field{year}{2021}
+      \verb{urlraw}
+      \verb https://time.com/5940505/housing-crisis-2021/
+      \endverb
+      \verb{url}
+      \verb https://time.com/5940505/housing-crisis-2021/
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

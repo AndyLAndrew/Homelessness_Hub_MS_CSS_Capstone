@@ -1,0 +1,7 @@
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+
+  \includegraphics[width=\linewidth]{figures/descriptive_stats_evictions.png}
+  \caption{Descriptive Statistics for Eviction Lockout Data}
+  \label{fig:descriptive_stats_evictions}
+\end{figure*}

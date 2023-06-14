@@ -1,0 +1,81 @@
+\begin{table*}[hbt]
+\ifnextchar[{\eatarg}{}
+[!htbp] \centering
+  \caption{In-Sample Model Performance Scores}
+  \label{}
+\begin{tabular}{@{\extracolsep{5pt}} cccc}
+\\[-1.8ex]\hline
+\hline \\[-1.8ex]
+ & AIC & BIC & LogLik \\
+\hline \\[-1.8ex]
+Original Model $H_0$ (Housing Needs) & $27,328.6900$ & $27,415.7800$ & $$-$13,653.3400$ \\
+Moratorium Added $H_1$ (Housing) & $42,199.7200$ & $42,286.8100$ & $$-$21,088.8600$ \\
+Original Model $H_0$ (Utilities Needs) & $26,011.0100$ & $26,098.1000$ & $$-$12,994.5100$ \\
+Moratorium Added $H_1$ (Utilities) & $39,060.9000$ & $39,147.9900$ & $$-$19,519.4500$ \\
+\hline \\[-1.8ex]
+\end{tabular}
+\end{table*}
+\efloatseparator
+ 
+\begin{table*}[hbt]
+\ifnextchar[{\eatarg}{}
+[!htbp]
+  \centering
+  \resizebox{0.4\textwidth}{!}{%
+    \begin{tabular}{@{\extracolsep{5pt}}lcc}
+      \\[-1.8ex]\hline
+      \hline \\[-1.8ex]
+      & \multicolumn{2}{c}{\textit{Dependent variable:}} \\
+      \cline{2-3}
+      \\[-1.8ex] & Housing Needs & Utilities Needs \\
+      \\[-1.8ex] & (1) & (2)\\
+      \hline \\[-1.8ex]
+      Female & 0.221$^{***}$ & 0.551$^{***}$ \\
+      & (0.031) & (0.033) \\
+      & & \\
+      Age & $-$0.110$^{***}$ & 0.145$^{***}$ \\
+      & (0.009) & (0.010) \\
+      & & \\
+      Alaska Native/Native Indian & $-$0.315$^{**}$ & $-$0.238$^{*}$ \\
+      & (0.131) & (0.139) \\
+      & & \\
+      Asian/Pacific Islander/Hawaiian & $-$0.512$^{***}$ & $-$0.314$^{***}$ \\
+      & (0.066) & (0.069) \\
+      & & \\
+      Bi-Racial/Multi-Racial & $-$0.345$^{***}$ & $-$0.169$^{**}$ \\
+      & (0.073) & (0.077) \\
+      & & \\
+      Hispanic/Latino & $-$0.388$^{***}$ & $-$0.064 \\
+      & (0.117) & (0.121) \\
+      & & \\
+      Race/Ethnicity: Other & $-$0.439$^{***}$ & 0.131$^{*}$ \\
+      & (0.067) & (0.069) \\
+      & & \\
+      White/Caucasian & $-$0.508$^{***}$ & $-$0.402$^{***}$ \\
+      & (0.040) & (0.042) \\
+      & & \\
+      White/Hispanic/Latino & $-$0.515$^{***}$ & $-$0.067 \\
+      & (0.043) & (0.045) \\
+      & & \\
+      Poverty Percentage & 2.261$^{***}$ & 0.620 \\
+      & (0.499) & (0.519) \\
+      & & \\
+      During Moratorium & $-$0.156$^{***}$ & $-$0.591$^{***}$ \\
+      & (0.031) & (0.033) \\
+      & & \\
+      Post-Moratorium & $-$0.710$^{***}$ & $-$1.137$^{***}$ \\
+      & (0.055) & (0.062) \\
+      & & \\
+      Constant & 0.310$^{***}$ & $-$0.944$^{***}$ \\
+      & (0.063) & (0.066) \\
+      & & \\
+      \hline \\[-1.8ex]
+      Observations & 20,282 & 20,282 \\
+      \hline
+      \hline \\[-1.8ex]
+      \textit{Note:} & \multicolumn{2}{r}{$^{*}$p$<$0.1; $^{**}$p$<$0.05; $^{***}$p$<$0.01} \\
+    \end{tabular}%
+  }
+  \caption{Likelihood table of Housing Needs and Utilities Needs, factored by race and Moratorium Period. (Constant indicates Prior to Moratorium Period)}
+  \label{}
+\end{table*}

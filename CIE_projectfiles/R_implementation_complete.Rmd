@@ -13,13 +13,6 @@ header-includes: \usepackage{dcolumn}
 Insert Appendix Text Here
 ---
 
-
-```{r, setup, include=FALSE}
-#knitr::opts_chunk$set(warning = FALSE, message = FALSE, echo=FALSE) 
-
-
-```
-
 ```{r, echo=F}
 # loading of any required libraries
 # Messages suppressed for all imports
@@ -386,7 +379,7 @@ cleaned_CIE$Year <- NULL
 # divide poverty amt by num of pop per ZCTA
 cleaned_CIE$pop_total <- sub(",", "", cleaned_CIE$pop_total) # fixing character to integer issues
 cleaned_CIE$pop_total <- as.numeric(cleaned_CIE$pop_total) # converting to type numeric
-cleaned_CIE$poverty_percentage <- cleaned_CIE$num_below_poverty / cleaned_CIE$pop_total
+cleaned_CIE$poverty_percentage <- (cleaned_CIE$num_below_poverty / cleaned_CIE$pop_total) * 100
 #cleaning up
 cleaned_CIE$pop_total <- NULL
 cleaned_CIE$num_below_poverty <- NULL
@@ -644,8 +637,8 @@ k_fold_data <- data.frame(
 ```
 
 
-```{r include=FALSE}
-train.control <- trainControl(method = "repeatedcv", number = 10, repeats = 3, summaryFunction = twoClassSummary, classProbs = TRUE, savePredictions = "all")
+```{r}
+train.control <- trainControl(method = "repeatedcv", number = 50, repeats = 5, summaryFunction = twoClassSummary, classProbs = TRUE, savePredictions = "all")
 # train the model
 set.seed(1)
 
@@ -769,14 +762,6 @@ all_stats <- rbind(t1_orig_stats, t1_var1_stats, t2_orig_stats, t2_var1_stats)
 colnames(all_stats) <- c("AIC", "BIC", "LogLik")
 rownames(all_stats) <- c("Original Model (Housing)", "Moratorium Added (Housing)", "Original Model (Utilities)", "Moratorium Added (Utilities)")
 mod_stargazer(all_stats, summary=F, title="In-Sample Model Performance Scores", digits=4, no.space=T, flip=F)
-```
-
-```{r}
-
-
-16 + 20
-
-
 ```
 
 

@@ -1,0 +1,10 @@
+\contentsline {section}{Contributions}{3}{section*.3}%
+\contentsline {section}{Introduction}{4}{section*.4}%
+\contentsline {section}{Background}{8}{section*.5}%
+\contentsline {section}{Data and Methods}{11}{section*.6}%
+\contentsline {subsection}{Forced Evictions Data}{11}{section*.7}%
+\contentsline {subsection}{CIE Demographics Data}{14}{section*.10}%
+\contentsline {section}{Results}{23}{section*.11}%
+\contentsline {subsection}{Spatial Patterns in Residential Lockout Eviction Orders by ZIP code for San Diego County}{23}{section*.12}%
+\contentsline {subsection}{Statistical Analysis of Housing Instability in relation to San Diego County ZIP codes}{30}{section*.18}%
+\contentsline {section}{Discussion}{35}{section*.23}%
