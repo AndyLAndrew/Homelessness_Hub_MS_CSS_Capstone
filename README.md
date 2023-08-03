@@ -4,9 +4,11 @@ By Kaye Prosser and Andrew Lona
 
 This repository contains all project files necessary to replicate the results reported in the article of the same title.
 
+Article contents/submissions are listed in the main directory named as Paper and Presentation respectively.
+
 Note: due to the confidentiality of our datasets, we cannot include them in this repository. If you would like to request access to said files used, please include a message within a pull request indicating so. Or otherwise email sunsol121@aol.com (contact via email will not be as expedited)
 
-Hardware used is a 2021 M1 Max MacBook Pro and Windows 10 
+Hardware used is a 2021 M1 Max MacBook Pro and Windows 10 (exact specifications are kept confidential)
 Software used:
 
 - Python 3.10 
