@@ -8,9 +8,10 @@ Note: due to the confidentiality of our datasets, we cannot include them in this
 
 Hardware used is a 2021 M1 Max MacBook Pro and Windows 10 
 Software used:
-	- Python 3.10
-	- R Studio (2022.07.2)  + R version 4.2.1 (2022-06-23)
-	- ArcGIS Professional
-	- Texifier {LaTeX)
+
+- Python 3.10 
+- R Studio (2022.07.2)  + R version 4.2.1 (2022-06-23)
+- ArcGIS Professional
+- Texifier {LaTeX)
 
 Special thanks to Prof. Jennifer Nations and Julie Wartell
